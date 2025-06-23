@@ -1,3 +1,5 @@
 # Ragnar: Exploring Volatile-Channel Vulnerabilities on RDMA NICs
 
-The code is being organized and will be released in the future.
+This paper is publised in DAC25. Get the paper at [RAGNAR]https://www.thu-haslab.org/publication/2025-ragnar/dac2025ragnar.pdf.
+
+Please do some modification on related metadata in the codes of each parts.

@@ -1,0 +1,16 @@
+.DS_Store
+CMakeCache.txt
+CMakeFiles/*
+Trash-1000
+main
+ud_test
+bin/*
+tmp
+tmp/*
+.gdb_history
+.vscode/*
+micro-bench/test
+._.DS_Store
+data/*
+data.tmp
+data2.tmp
